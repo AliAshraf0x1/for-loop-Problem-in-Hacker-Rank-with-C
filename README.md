@@ -1,0 +1,1 @@
+# for-loop-Problem-in-Hacker-Rank-with-C
